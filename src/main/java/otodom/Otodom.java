@@ -13,25 +13,13 @@ import java.util.Set;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class otodom {
+public class Otodom {
 
     public static void main(String[] args) throws Exception {
 
-        ExecutorService executorService = Executors.newFixedThreadPool(10);
+        ExecutorService executorService = Executors.newFixedThreadPool(8);
 
         long start = System.currentTimeMillis();
-
-//        URL otodom = new URL("https://www.otodom.pl/sprzedaz/mieszkanie/poznan/piatkowo/");
-//        BufferedReader in = new BufferedReader(new InputStreamReader(otodom.openStream()));
-//
-//        String inputLine;
-//        StringBuilder stringBuilder = new StringBuilder();
-//        while ((inputLine = in.readLine()) != null) {
-//            stringBuilder.append(inputLine);
-//            stringBuilder.append(System.lineSeparator());
-//        }
-//        in.close();
-//        System.out.println(stringBuilder.toString());
 
 
         final String OTODOM_URL = "https://www.otodom.pl/sprzedaz/mieszkanie/poznan/piatkowo/";

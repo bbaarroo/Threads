@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1295b489-b783-43cf-b01e-29edb3406392" name="Default Changelist" comment="" />
+    <list default="true" id="1295b489-b783-43cf-b01e-29edb3406392" name="Default Changelist" comment="commit2">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/otodom/otodom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/otodom/Otodom.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +35,7 @@
   </component>
   <component name="ProjectId" id="1QeiRPmhYhGLr2u3X4LgXR0pm24" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../apilia" />
@@ -47,9 +59,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="otodom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="otodom.otodom" />
-      <module name="watki" />
+    <configuration name="Otodom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="otodom.Otodom" />
+      <module name="Threads" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="otodom.*" />
@@ -62,7 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.otodom" />
+        <item itemvalue="Application.Otodom" />
       </list>
     </recent_temporary>
   </component>
@@ -79,10 +91,26 @@
       <workItem from="1568137457321" duration="5831000" />
       <workItem from="1568729829556" duration="837000" />
       <workItem from="1569670810340" duration="2013000" />
+      <workItem from="1569673916962" duration="789000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit2" />
   </component>
 </project>
